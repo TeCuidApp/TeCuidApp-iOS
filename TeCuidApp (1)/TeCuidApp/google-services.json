@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "846833953401",
+    "project_id": "tecuidapp-c2636",
+    "storage_bucket": "tecuidapp-c2636.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846833953401:android:1c538fac3a993a7cba42a8",
+        "android_client_info": {
+          "package_name": "com.tecuidapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846833953401-a3t69mtq4dphur52nfsgg8psq1330is6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecuidapp.app",
+            "certificate_hash": "e7634c78cd6f05f218161199febf54cbba966dc1"
+          }
+        },
+        {
+          "client_id": "846833953401-tq9nu0gcrkrqidvpdhv60ethv46c9p13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecuidapp.app",
+            "certificate_hash": "c9688e243f18503a8ac9a98ffabb1722c3153c6e"
+          }
+        },
+        {
+          "client_id": "846833953401-8bbg1ut3hk3e90djh2e5u4veuo14g86b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-HTicW0ymMhl6Sy2V6bLgVBmnidzef-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846833953401-8bbg1ut3hk3e90djh2e5u4veuo14g86b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
